@@ -1,4 +1,4 @@
-##Secant Method:
+##Secant_Method :
 //Code2:
 import math
 func = input("Enter the function f(x): ")
