@@ -1,4 +1,5 @@
-##bisection method 
+##bisection method maths practise in pythonS
+
 import math
 # input function from user
 func = input("Enter function f(x): ")
