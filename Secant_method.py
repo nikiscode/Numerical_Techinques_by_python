@@ -1,4 +1,4 @@
-
+mmytt
 ##Regular_Falsi:
 import math
 func = input("Enter the function f(x): ")
