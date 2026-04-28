@@ -1,5 +1,3 @@
-
-
 ##Secant_Method :
 //Code2:
 import math
