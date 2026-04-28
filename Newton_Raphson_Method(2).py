@@ -1,19 +1,14 @@
 #newton rapson 
 import math
-
 # input g(x) from user
 g_input = input("Enter the function g(x): ")
-
 # define function g(x)
 def g(x):
     return eval(g_input, {"x": x, "math": math})
-
 # input initial guess
 x0 = float(input("Enter initial guess x0: "))
-
 # input tolerance
 tol = float(input("Enter tolerance: "))
-
 # input maximum number of iterations
 max_iter = int(input("Enter maximum number of iterations: "))
 
