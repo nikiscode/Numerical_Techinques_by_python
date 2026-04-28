@@ -1,5 +1,4 @@
-
-
+##newton raphson 
 import math
 # input function and its derivative
 func = input("Enter the function f(x): ")
