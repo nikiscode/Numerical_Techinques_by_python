@@ -1,7 +1,4 @@
-
-
-
-
+##forward interpolation 
 n = int(input("Enter number of data points:"))
 x = []
 y = []
