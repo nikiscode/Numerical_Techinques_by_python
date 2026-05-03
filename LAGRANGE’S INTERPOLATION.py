@@ -1,3 +1,5 @@
+
+
 LAGRANGE’S INTERPOLATION
 //Code 1:
 def lagrange_interpolation(x,y,xp):
