@@ -1,3 +1,5 @@
+
+
 ##newton raphson 
 import math
 # input function and its derivative
