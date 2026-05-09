@@ -1,3 +1,4 @@
+##curvefitting method 
 import numpy as np
 
 def exponential_fit(x,y):
