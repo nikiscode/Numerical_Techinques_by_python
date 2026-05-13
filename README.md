@@ -1,10 +1,10 @@
-## Numerical_Techinques_by_python
+ ## Numerical_Techinques_by_python
 
-## Numerical Techniques – Introduction
+ ## Numerical Techniques – Introduction
 
-## What are Numerical Techniques?
+ ## What are Numerical Techniques?
 
-**Numerical Techniques** (or **Numerical Methods**) are mathematical methods used to find **approximate solutions** to complex mathematical problems using numerical calculations.
+ **Numerical Techniques** (or **Numerical Methods**) are mathematical methods used to find  **approximate solutions** to complex mathematical problems using numerical calculations.
 These methods are useful when problems cannot be solved using exact formulas. They rely on **iterations, approximations, and algorithms**, and are often implemented using computers and programming languages.
 
 ## Importance
