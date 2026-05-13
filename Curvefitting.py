@@ -1,16 +1,12 @@
 ##curvefitting method 
 import numpy as np
-
 def exponential_fit(x,y):
     x=np.array(x,dtype=float)
     y=np.array(y,dtype=float)
-
-    if np.any(y<=0):
+if np.any(y<=0):
         print("Error:All y values must be positive for exponential fit.")
-        return
-    
+        return 
     Y=np.log(y)
-
     n=len(x)
     Sx=np.sum(x)
     Sy=np.sum(Y)
