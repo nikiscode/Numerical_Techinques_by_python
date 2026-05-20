@@ -1,5 +1,5 @@
 ##curvefitting method 
-import numpy as np
+   import numpy as np
 def exponential_fit(x,y):
     x=np.array(x,dtype=float)
     y=np.array(y,dtype=float)
