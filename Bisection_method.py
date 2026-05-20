@@ -1,10 +1,10 @@
- ##bisection method maths practise in pythonS
+  ##bisection method maths practise in pythonS
 import math
-# input function from user
+  # input function from user
 func = input("Enter function f(x): ")
 def f(x):
     return eval(func)
-# input interval and tolerance
+   # input interval and tolerance
 a = float(input("Enter value of a: "))
 b = float(input("Enter value of b: "))
 tol = float(input("Enter tolerance: "))
