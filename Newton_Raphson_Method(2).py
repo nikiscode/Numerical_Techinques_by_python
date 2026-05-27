@@ -1,4 +1,9 @@
-  ##newton rapson 
+
+
+
+
+
+##newton rapson 
 import math
 # input g(x) from user
 g_input = input("Enter the function g(x): ")
