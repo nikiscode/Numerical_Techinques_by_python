@@ -1,8 +1,3 @@
-
-
-
-
-
 ##newton rapson 
 import math
 # input g(x) from user
